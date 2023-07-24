@@ -1,0 +1,17 @@
+.header{
+    padding: 14px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header .site-branding img{
+    height: 40px;
+    width: fit-content;
+}
+.header .phone{
+    font-size: 16px;
+}
+.container{
+    max-width: 700px;
+    margin: 0 auto;
+}

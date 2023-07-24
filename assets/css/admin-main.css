@@ -1,0 +1,10 @@
+.wrapper_cpt_field{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+.wrapper_cpt_field > * {
+    width: 50%;
+    margin-bottom: 0;
+}
